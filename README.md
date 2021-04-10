@@ -6,4 +6,18 @@
 
 ## What I do
 
-### Current am intern in my university and work with web development
+### Current I am intern at my university and work with web development
+
+## My skills
+
+- Javascript
+- Typescript
+- Java
+- Python
+- Dotnet
+- React
+- Angular
+- PostgreSQL
+- MySQL
+
+
