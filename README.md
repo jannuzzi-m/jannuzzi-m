@@ -1,25 +1,32 @@
-# Hello
-
-## Presentation
+# Hello!
 
 ### My name is Marcelino Jannuzzi and i am a computer science student.
 
-## What I do
+# What I do
 
-### Current I am intern at my university and work with web development
+### Current I am a software developer intern at Agriness, a tech company located in Santa Catariana, Brazil.
 
-## My skills
+# My skills
 
-- Javascript
-- Typescript
-- Java
-- Python
-- Dotnet
-- React
-- Angular
-- PostgreSQL
-- MySQL
+### Languages
+    Python
+    Javascript
+    Typescript
+    Java
+    C#
+    PHP
 
-## More
+### Frameworks and Libraries
+    React
+    React Native
+    Angular
+    Django Rest Framework
+    
+### Databases
+    PostgreSQL
+    MySQL
 
-- [My Github Page](https://jannuzzi-m.github.io)
+### More
+
+* [Linkedin](https://www.linkedin.com/in/marcelino-jannuzzi/)
+* [My Github Page](https://jannuzzi-m.github.io)
