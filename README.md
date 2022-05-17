@@ -1,6 +1,6 @@
 # Hello!
 
-### My name is Marcelino Jannuzzi and i am a computer science student.
+### My name is Marcelino Jannuzzi and i am a computer science student and developer.
 
 # What I do
 
