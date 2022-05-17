@@ -4,7 +4,7 @@
 
 # What I do
 
-### Current I am a software developer intern at Agriness, a tech company located in Santa Catariana, Brazil.
+### Current I am a software developer and student.
 
 # My skills
 
